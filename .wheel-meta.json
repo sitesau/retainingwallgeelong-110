@@ -1,0 +1,22 @@
+{
+  "wheel_id": 527,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-110",
+  "project": "retaining-wall-repairs-geelong-warranty-7679f1bea855f1823fca",
+  "parent_t1_ref": "retainingwallgeelong-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall repairs geelong warranty",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-repairs-geelong-warranty-7679f1bea855f1823fca/",
+  "tier": "T2",
+  "writeback_nonce": "488d9c114beaa808",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-geelong-22354e311605dc5cd71485a8e49f5216/",
+      "anchor": "retaining wall repairs geelong explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
